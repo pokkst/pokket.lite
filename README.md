@@ -1,2 +1,2 @@
-# pokket
-A BTC version of Pokket.cash
+# pokket.lite
+An LTC version of Pokket.cash
